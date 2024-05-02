@@ -1,2 +1,2 @@
 # Submodule
-Esse repo é uma pasta dentro do repositorio pai BRANCHES, que é ter um projeto dentro de outro.
+Esse repo é uma pasta dentro do repositorio pai "COMPARTILHAMENTO_E_ATUALIZAÇÃO", que é ter um projeto dentro de outro.
